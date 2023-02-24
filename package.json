@@ -1,0 +1,9 @@
+{
+    "name": "personal_openAI",
+    "version": "0.1.0",
+    "type": "module",
+    "dependencies": {
+        "dotenv-flow": "^3.2.0",
+        "openai": "^3.1.0"
+    }
+}
