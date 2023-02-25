@@ -4,6 +4,7 @@
     "type": "module",
     "dependencies": {
         "dotenv-flow": "^3.2.0",
+        "got": "^12.5.3",
         "openai": "^3.1.0"
     }
 }
